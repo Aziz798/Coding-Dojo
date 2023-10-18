@@ -6,4 +6,3 @@ if(height>=42 && age>=10){
 else {
     console.log( "Sorry kiddo. Maybe next year.");
 }
-console.log("hello");
