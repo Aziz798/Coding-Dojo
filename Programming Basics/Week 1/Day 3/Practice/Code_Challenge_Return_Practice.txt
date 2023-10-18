@@ -1,0 +1,43 @@
+====Scrippet1====
+hello
+Dojo
+====Scrippet2====
+hello
+result is 15
+====Scrippet3====
+num is 3
+result is 18
+====Scrippet4====
+15
+10
+10
+15
+====Scrippet5====
+15
+10
+20
+15
+====Scrippet6====
+num is 3
+num is 5
+result is 16
+====Scrippet7====
+5
+8
+====Scrippet8====
+2
+5
+3
+8
+====Scrippet9====
+sum is 5
+sum is 8
+result is 13
+====Scrippet10====
+sum is 5
+sum is 3
+sum is 6
+sum is 3
+sum is 5
+sum is 8
+result is 19
