@@ -1,0 +1,14 @@
+----Code Snippet1----
+contactInfo : ["Paula", "Smith", "1234 Main Street", "St. Louis", "MO", 12345]
+
+
+----Code Snippet2----
+ produce = ["apples", "oranges"] 
+ frozen :["broccoli", "ice cream"]
+
+
+ ----Code Snippet3----
+  movieLibrary : ["Bambi", "Beetlejuice", "Toy Story","Zorro"]
+
+
+
