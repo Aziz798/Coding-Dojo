@@ -1,0 +1,3 @@
+I learned a lot about algorithms and web developement basics
+I benefited a lot from the 20 minutes rule it helped solve a lot of problems
+My mistake was the return of the function i missplace it 
