@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+
+<body>
+    <h1>Registration Form</h1>
+    <div>
+        First Name * <input type="text">
+    </div>
+    <div>
+        Last Name * <input type="text">
+    </div>
+    <div>
+        Email Adress * <input type="text">
+    </div>
+    <div>
+        Password * <input type="password" name="password" id="password">
+    </div>
+    <div>
+        Confirm Password * <input type="password" name="password0" id="password0">
+    </div>
+    <div>
+        Birthday: <input type="date" name="birthday">
+
+    </div>
+    <p>Gender Identity:</p>
+    <div>
+        <input type="radio" name="font" value="Male" id="M">
+        <label>Male</label>
+        <input type="radio" name="font" value="female" id="F">
+        <label>Female</label>
+
+    </div>
+    <p>A short description about myself:</p>
+    <div>
+        <textarea name="description" cols="20" rows="3"></textarea>
+
+    </div>
+    <div>
+        Favourite language: <select name="language">
+            <option value="js">Javascript</option>
+            <option value="py">Python</option>
+            <option value="ja">Java</option>
+            <option value="c#">C#</option>
+        </select>
+
+    </div>
+    <div>
+        <input type="checkbox" name="accept" id="accept">
+        <label for="accept">Yes,I would like to receive email updates</label>
+
+    </div>
+    <input type="submit" value="Create Account">
+    <p>* Indicates a required field</p>
+
+</body>
+
+</html>
