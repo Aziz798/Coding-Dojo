@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blue-square {
+    background-color: #0c5eaf;
+    flex: 2;
+    display: flex;
+    position: relative;
+    justify-content: flex-start; 
+    align-items: flex-start; 
+}
+
+.white-cross {
+    background-color: white;
+    position: absolute;
+}
+
+.horizontal {
+    width: 100%;
+    height: 20%;
+}
+
+.vertical {
+    width: 20%;
+    height: 100%;
+}
+
+.stripes {
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+}
+
+.stripe {
+    flex: 1;
+}
+
+.blue {
+    background-color: #0c5eaf;
+}
+
+.white {
+    background-color: white;
+}
