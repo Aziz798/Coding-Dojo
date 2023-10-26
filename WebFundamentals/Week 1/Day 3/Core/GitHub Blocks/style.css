@@ -1,0 +1,44 @@
+* {
+    background-color: grey;
+}
+
+h1 {
+    font: size 400px;
+    font-style: italic;
+    text-align: center;
+}
+
+.row1 {
+    background-color: aqua;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.row2 {
+    background-color: hotpink;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row3 {
+    background-color: wheat;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 200px;
+    padding: 2px;
+    margin: 15px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}

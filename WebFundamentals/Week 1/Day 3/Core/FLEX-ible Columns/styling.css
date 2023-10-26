@@ -1,0 +1,9 @@
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.col{
+    background-color: aqua;
+    padding: 14%;
+    width: 15px;
+}
