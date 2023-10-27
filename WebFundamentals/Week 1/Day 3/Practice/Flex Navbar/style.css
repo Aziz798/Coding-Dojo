@@ -5,25 +5,22 @@
     display: flex;
     justify-content: space-between;
     font-style:'Roboto', sans-serif;
+    padding: 20px;
+    font-size: large;
 
-}
-.nav-title {
-    display: flex;
-    
 }
 .nav-links{
     display: flex;
     justify-content: flex-end;
     align-items: center;
     list-style-type: none;
-   
     
 }
 a{
     color: white;
     text-decoration: none;
     justify-content: center;
-    margin: 10px;
+    margin: 0 10px;
 
 }
 .btn{
@@ -31,4 +28,8 @@ a{
     margin-right: 5px;
     background-color: aqua;
     color: white;
+    width: 100px;
+    height: 25px;
+    border: 2px solid black;
+
 }

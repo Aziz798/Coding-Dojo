@@ -1,9 +1,70 @@
+
 .row{
     display: flex;
+    background-color:white;
     justify-content: space-evenly;
+    height: 200px;
+
+    
+
 }
 .col{
-    background-color: aqua;
-    padding: 14%;
-    width: 15px;
+    flex: 1;
+    background-color: rgb(57, 137, 137);
+    margin: auto;
+    display: block;
+    height: 30%;
+    margin: 3px;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.col1{
+    flex: 1;
+    background-color: rgb(57, 137, 137);
+    margin: auto;
+    display: block;
+    height: 65%;
+    width: 65%;
+    margin: 3px;
+    text-align: center;
+    color: aliceblue;
+
+}
+.col-2{
+    flex:2;
+    background-color: rgb(57, 137, 137);
+    margin: auto;
+    display: block;
+    height: 65%;
+    width: 65%;
+    margin: 3px;
+    text-align: center;
+    color: aliceblue;
+
+}
+.col-3{
+    flex:2;
+    background-color: rgb(57, 137, 137);
+    margin: auto;
+    display: block;
+    height: 65%;
+    width: 65%;
+    margin: 3px;
+    text-align: center;
+    color: aliceblue;
+
+}
+.col-4{
+    flex:3;
+    background-color: rgb(57, 137, 137);
+    margin: auto;
+    display: block;
+    height: 65%;
+    width: 65%;
+    margin: 3px;
+    text-align: center;
+    color: aliceblue;
+
 }
