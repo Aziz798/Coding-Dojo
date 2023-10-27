@@ -9,8 +9,10 @@ console.log(random);
 function d6() {
     var roll = Math.random();
     // your code here
+    roll=Math.floor(roll*6)+1;
     return roll;
 }
+
 var playerRoll = d6();
 console.log("The player rolled: " + playerRoll);
 
@@ -37,3 +39,10 @@ var lifesAnswers = [
     "Outlook not so good.",
     "Very doubtful."
 ];
+function randomFromAnArray(arr){
+    var i=Math.floor(Math.random()*(arr.length-1));
+    var answer=arr[i];
+    return answer
+}
+var a=randomFromAnArray(lifesAnswers);
+console.log(a);
