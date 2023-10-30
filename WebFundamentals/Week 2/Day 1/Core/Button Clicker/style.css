@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+    align-items: baseline;
+
+}
+.underline{
+    text-decoration: underline;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.interface{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.navBar{
+    display: flex;
+    background-color: grey;
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    color: white;
+}
+#Search{
+    width: 242px;
+    height: 32px;
+}
+#login{
+    background-color: turquoise;
+    height: 33px;
+    width: 77px;
+    
+}
+.rightSide{
+    display: flex;
+    flex-direction: column;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 2px solid black;
+    height: 172px;
+    width: 400px;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+.yellowButton{
+    height: 48px;
+    width: 96px;
+    margin: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    box-shadow: 3px 3px;
+}
+.leftSide{
+    display: flex;
+    height: 193px;
+    width: 231px;
+    border: 2px solid black;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px;
+
+}
+h2{margin: 5px;}
+p{margin: 5px;}
+button{
+    background-color: green;
+    color: black;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    
+}
