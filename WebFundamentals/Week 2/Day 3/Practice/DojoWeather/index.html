@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <h1>DojoWeather</h1>
+        <ul>
+            <li onclick="alert('Loading weather report...')"><h3>Burbank</h3></li>
+            <li onclick="alert('Loading weather report...')"><h3>Chicago</h3></li>
+            <li onclick="alert('Loading weather report...')"><h3>Dallas</h3></li>
+        </ul> 
+    </nav>
+    <div class="mainContainer">
+        <div class="nav2">
+            <h2>San Jose</h2>
+            <div>
+                <h3>Show temprature</h3>
+                <select name="mesureType" class="mesureType" onchange="change(this)">
+                    <option value="celsius" >°C</option>
+                    <option value="farenhiet" >°F</option>
+                </select>
+            </div>
+        </div>
+        <div class="container">
+            <div class="weekDays">
+                <div class="day">
+                    <h2>Today</h2>
+                    <img src="assets/some_rain.png" alt="some_rain">
+                    <h3>Some rain</h3>
+                    <div class="temprature">
+                        <h5 class="heighest"><span id="w1">24</span>°</h5>
+                        <h5 class="lowest"><span id="w2">18</span>°</h5>
+                    </div>
+                </div>
+                <div class="day">
+                    <h2>Tomorrow</h2>
+                    <img src="assets/some_sun.png" alt="some_sun">
+                    <h3>Some sun</h3>
+                    <div class="temprature">
+                        <h5 class="heighest"><span id="W3">27</span>°</h5>
+                        <h5 class="lowest"><span id="W4">19</span>°</h5>
+                    </div>
+                </div>
+                <div class="day">
+                    <h2>Friday</h2>
+                    <img src="assets/some_clouds.png" alt="some_clouds">
+                    <h3>Some clouds</h3>
+                    <div class="temprature">
+                        <h5 class="heighest"><span id="W5">21</span>°</h5>
+                        <h5 class="lowest"><span id="W6">16</span>°</h5>
+                    </div>
+                </div>
+                <div class="day">
+                    <h2>Saturday</h2>
+                    <img src="assets/some_sun.png" alt="some_sun">
+                    <h3>Some sun</h3>
+                    <div class="temprature">
+                        <h5 class="heighest"><span id="W7">26</span>°</h5>
+                        <h5 class="lowest"><span id="W8">21</span>°</h5>
+                    </div>
+            </div>
+        </div>
+        <div class="cookies">
+            <img src="assets/cookie.png" alt="cookie">
+            <div class="cookiesText">
+                <h3>Stop! Cookie time</h3>
+                <p>We use cookies (sadly not the edible ones) to personalize contents and ads, to provide social media features and to analyse our traffic. <a href="#">Read more...</a></p>
+            </div>
+            <button onclick="sup()">I accept</button>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
