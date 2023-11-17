@@ -30,6 +30,7 @@ class BankAccount:
     def print_all_accounts_info(cls):
         for account in cls.all_accounts:
             print(f"Interest Rate: {account.interest_rate}, Balance: {account.balance}")
+        return cls
 
 class User:
     def __init__(self, name, email, accounts=None):
@@ -40,32 +41,39 @@ class User:
     def create_account(self, interest_rate=0.01, balance=0):
         new_account = BankAccount(interest_rate, balance)
         self.accounts.append(new_account)
-        return new_account
+        return self
 
     def make_deposit(self, amount, account_index=0):
         if 0 <= account_index < len(self.accounts):
             self.accounts[account_index].deposit(amount)
         else:
             print("Invalid account index.")
+        return self
 
     def make_withdrawal(self, amount, account_index=0):
         if 0 <= account_index < len(self.accounts):
             self.accounts[account_index].withdraw(amount)
+            return self
         else:
             print("Invalid account index.")
+            return self
 
     def display_user_balance(self, account_index=0):
         if 0 <= account_index < len(self.accounts):
             print(f"User: {self.name}, Account {account_index} Balance: ${self.accounts[account_index].balance}")
+            return self
         else:
             print("Invalid account index.")
+            return self
 
     def transfer_money(self, amount, other_user, from_account_index=0, to_account_index=0):
         if 0 <= from_account_index < len(self.accounts) and 0 <= to_account_index < len(other_user.accounts):
             self.accounts[from_account_index].withdraw(amount)
             other_user.accounts[to_account_index].deposit(amount)
+            return self
         else:
             print("Invalid account index.")
+            return self
 
 # Example usage:
 
