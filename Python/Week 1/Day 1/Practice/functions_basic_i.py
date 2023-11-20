@@ -97,7 +97,7 @@ foobar()
 print(b)
 
 
-#13  answer 500,500,300,300
+#13  answer 500,500,300,500
 b = 500
 print(b)
 def foobar():
