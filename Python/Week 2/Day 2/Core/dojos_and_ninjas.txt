@@ -1,0 +1,23 @@
+------------------------ninjas-------------------------------------
+SELECT * FROM dojos_and_ninjas.ninjas;
+INSERT INTO dojos_and_ninjas.ninjas (first_name,last_name,age,dojos_id) VALUE ("aziz","bouazizi","21","4");
+SELECT * FROM dojos_and_ninjas.ninjas;
+INSERT INTO dojos_and_ninjas.ninjas (first_name,last_name,age,dojos_id) VALUE ("elee","andolsi","31","4"),("sameh","khazri","26","4");
+SELECT * FROM dojos_and_ninjas.ninjas;
+INSERT INTO dojos_and_ninjas.ninjas (first_name,last_name,age,dojos_id) VALUE ("ghaith","trabelsi","51","5"),("anis","ahmed","76","5"),("rayen","jhon","18","5");
+SELECT * FROM dojos_and_ninjas.ninjas;
+INSERT INTO dojos_and_ninjas.ninjas (first_name,last_name,age,dojos_id) VALUE ("ben","trump","22","6"),("bin","cho","48","6"),("souleim","great","31","6");
+SELECT * FROM dojos_and_ninjas.ninjas;
+SELECT first_name,last_name,age,dojos_id FROM dojos_and_ninjas.ninjas WHERE dojos_id=4;
+SELECT first_name,last_name,age,dojos_id FROM dojos_and_ninjas.ninjas WHERE dojos_id=6;
+SELECT * from dojos_and_ninjas.ninjas JOIN dojos_and_ninjas.dojos ON ninjas.dojos_id=dojos.id WHERE ninjas.id=6;
+SELECT * from dojos_and_ninjas.ninjas JOIN dojos_and_ninjas.dojos ON ninjas.dojos_id=dojos.id ;
+
+
+
+
+------------------------------------dojos-------------------------------------
+DELETE FROM dojos_and_ninjas.dojos;
+SELECT * FROM dojos_and_ninjas.dojos;
+INSERT INTO dojos_and_ninjas.dojos (name) VALUE ("dragon"),("serpent"),("wolf");
+SELECT * FROM dojos_and_ninjas.dojos;
