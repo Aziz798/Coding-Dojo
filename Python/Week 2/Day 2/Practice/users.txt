@@ -1,0 +1,12 @@
+SELECT * FROM users_db.users;
+INSERT INTO `users_db`.`users` ( `first_name`, `last_name`, `email`) VALUES ( 'aziz', 'bouazizi', 'az@i');
+INSERT INTO `users_db`.`users` ( `first_name`, `last_name`, `email`) VALUES ( 'elee', 'andolsi', 'el@e');
+INSERT INTO `users_db`.`users` ( `first_name`, `last_name`, `email`) VALUES ( 'sameh', 'khazri', 'sa@e');
+select email FROM users;
+SELECT * FROM users ORDER BY id DESC LIMIT 1;
+UPDATE users SET last_name = 'Pancakes' WHERE id = 3;
+SELECT * FROM users_db.users;
+DELETE FROM users WHERE id=2;
+SELECT * FROM users_db.users;
+SELECT * FROM users ORDER BY first_name ;
+SELECT * FROM users ORDER BY first_name DESC;
