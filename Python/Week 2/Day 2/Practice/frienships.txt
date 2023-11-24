@@ -1,0 +1,42 @@
+SELECT * FROM friendships_shema.users;
+INSERT INTO users(first_name,last_name) VALUES ('Amy',	'Giver'),('Eli', 'Byers'),
+('Big', 'Bird'),('Kermit', 'The Frog'),('Marky', 'Mark'),('Aziz', 'Bouazizi');
+SELECT * FROM friendships_shema.users;
+INSERT INTO friendships (user_id,friend_id) VALUES (1,2),(1,4),(1,6);
+SELECT * FROM friendships_shema.friendships;
+INSERT INTO friendships (user_id,friend_id) VALUES (2,1),(2,3),(2,5);
+SELECT * FROM friendships_shema.friendships;
+INSERT INTO friendships (user_id,friend_id) VALUES (3,2),(3,5);
+INSERT INTO friendships (user_id,friend_id) VALUES (4,3);
+INSERT INTO friendships (user_id,friend_id) VALUES (5,1),(5,6);
+INSERT INTO friendships (user_id,friend_id) VALUES (6,2),(6,3);
+SELECT * FROM users 
+JOIN friendships ON  user_id=users.id LEFT JOIN users as user2 ON friend_id=users.id;
+SELECT first_name FROM users JOIN friendships ON friend_id;
+SELECT COUNT(*)  FROM friendships;
+
+SELECT
+    user_id,
+    COUNT(*) AS friend_count
+FROM
+    (
+        SELECT user_id FROM friendships
+        UNION ALL
+        SELECT friend_id FROM friendships
+    ) AS all_friends
+GROUP BY
+    user_id
+ORDER BY
+    friend_count DESC
+LIMIT 1;
+SELECT
+    u2.first_name,
+    u2.last_name
+FROM
+    friendships
+JOIN users AS u1 ON friendships.user_id = u1.id
+JOIN users AS u2 ON friendships.friend_id = u2.id
+WHERE
+    u1.id = 3
+ORDER BY
+    u2.last_name, u2.first_name;
