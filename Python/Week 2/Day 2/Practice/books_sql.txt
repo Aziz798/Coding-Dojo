@@ -1,0 +1,44 @@
+------------------------books_has_users------------------------
+SELECT * FROM books_sql.books_has_users;
+insert into books_has_users (book_id,user_id) values
+(1,1),(2,1);
+SELECT * FROM books_sql.books_has_users;
+insert into books_has_users (book_id,user_id) values
+(1,2),(2,2),(3,2);
+SELECT * FROM books_sql.books_has_users;
+insert into books_has_users (book_id,user_id) values
+(1,3),(2,3),(3,3),(4,3);
+SELECT * FROM books_sql.books_has_users;
+insert into books_has_users (book_id,user_id) values
+(1,4),(2,4),(3,4),(4,4),(5,4);
+SELECT * FROM books_sql.books_has_users;
+SELECT user_id FROM books_sql.books_has_users WHERE book_id=3;
+DELETE FROM books_sql.books_has_users WHERE user_id=1 AND book_id=3;
+SELECT * FROM books_sql.books_has_users;
+insert into books_has_users (book_id,user_id) values(2,5);
+SELECT * FROM books_sql.books_has_users WHERE user_id=3;
+SELECT title from books
+LEFT JOIN books_sql.books_has_users as books_has_users on books_has_users.book_id = books.id
+WHERE books_has_users.user_id = 3;
+SELECT first_name, last_name
+FROM users
+ JOIN books_has_users ON books_has_users.user_id = books_has_users.user_id
+WHERE books_has_users.book_id = 5;
+
+
+-------------------------books----------------------------------------
+SELECT * FROM books_sql.books;
+INSERT INTO books_sql.books (title) VALUE ('C Sharp'),('Java'),('Python'),('PHP'),('Ruby');
+SELECT * FROM books_sql.books;
+UPDATE books_sql.books SET title='C'WHERE id=1;
+SELECT * FROM books_sql.books;
+UPDATE books_sql.books SET title='C#'WHERE id=1;
+SELECT * FROM books_sql.books;
+
+
+-----------------------users----------------------------
+SELECT * FROM books_sql.users;
+INSERT INTO books_sql.users (first_name,last_name) value ('Jane','Amsden'),('Emily','Dixon'),('Theodore4','Dostoevsky'),('William','Shapiro'),('Lao','Xiu');
+SELECT * FROM books_sql.users;
+UPDATE books_sql.users SET first_name='Bill' WHERE id=4;
+SELECT * FROM books_sql.users;
