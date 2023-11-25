@@ -1,8 +1,7 @@
 /* 
-  Given an array and an item to search for,
-  return the index where the item is found,
-
-  return -1 to represent not found
+Given an array and an item to search for,
+return the index where the item is found,
+return -1 to represent not found
   */
 
 const arr1 = ["a", "b", "c"];
@@ -23,27 +22,30 @@ const expected4 = -1;
 
 /**
  * Finds the index from the given array where the given item is found.
- 
  * @param {Array<any>} items An array of any kind of items.
  * @param {any} searchItem The item to find.
  * @returns {number} The index of found item, or -1 if not found.
  */
 function indexOf(items, searchItem) {
     // code here
-    var number = 0;
-    for (i = 0; i <= items.length - 1; i++) {
-        if(items[i]===searchItem){
-            number=i;
-            break ;
-        }
-        else{
-            number=-1;
-        }
-
+    let number = 0;
+    if(items.length===0){
+        number=-1;
+        return number
     }
-    return number ;
+    else{
+        for (let i = 0; i <= items.length - 1; i++) {
+            if(items[i]===searchItem){
+                number=i;
+                break ;
+            }
+            else{
+                number=-1;
+            }
+        }
+        return number ;
+    }
 }
-
 // Tests
 const result1 = indexOf(arr1, searchItem1);
 console.log(result1, "should be", expected1);

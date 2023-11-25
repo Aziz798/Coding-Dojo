@@ -8,5 +8,4 @@ function reverseArray(arr) {
     return arr;
 }
 // Test
-var f =reverseArray([5,4,3,2,1]);
-console.log(f)
+console.log(reverseArray([5,4,3,2,1]));

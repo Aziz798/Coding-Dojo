@@ -17,7 +17,7 @@ const expectedC = "SDLC";
 
 //- Bonus: ignore extra spaces
 const strD = "  global   information tracker    ";
-// const expectedD = "GIT";
+const expectedD = "GIT";
 
 function acronymize(str) {
     const words = str.split(' ');
@@ -29,5 +29,11 @@ function acronymize(str) {
     }
     return acronym;
 }
-
-console.log((acronymize(strD)));
+console.log("Result1:",acronymize(strA));
+console.log("Expected1 :",expectedA);
+console.log("Result2:",acronymize(strB));
+console.log("Expected2 :",expectedB);
+console.log("Result3:",acronymize(strC));
+console.log("Expected3 :",expectedC);
+console.log("Result4:",acronymize(strD));
+console.log("Expected4 :",expectedD);

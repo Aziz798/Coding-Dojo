@@ -26,35 +26,36 @@ var pokemon = [
 
 // Challenges - using the array of pokémon above and loops:
 // 1. console.log the pokémon objects whose id is evenly divisible by 3
-// for(i=1;i<=pokemon.length-1;i++){
-//     if(pokemon[i].id%3==0){
-//         console.log(pokemon[i])
-//     }
-// }
+for(i=1;i<=pokemon.length-1;i++){
+    if(pokemon[i].id%3==0){
+        console.log(pokemon[i])
+    }
+}
 // 2. console.log the pokémon objects that have more than one type
-// for(i=1;i<=pokemon.length-1;i++){
-//     if(pokemon[i].types.length>1){
-//         console.log(pokemon[i])
-//     }
-// }
+for(i=1;i<=pokemon.length-1;i++){
+    if(pokemon[i].types.length>1){
+        console.log(pokemon[i])
+    }
+}
 // 3. console.log the names of the pokémon whose only type is "poison"
-// for(i=1;i<=pokemon.length-1;i++){
-//     if(pokemon[i].types[0]==="poison" && pokemon[i].types.length==1 ){
-//         console.log(pokemon[i])
-//     }
-// }
+for(i=1;i<=pokemon.length-1;i++){
+    if(pokemon[i].types[0]==="poison" && pokemon[i].types.length==1 ){
+        console.log(pokemon[i])
+    }
+}
 // 4. console.log the first type of all the pokémon whose second type is "flying"
-// for(i=1;i<=pokemon.length-1;i++){
-//     if(pokemon[i].types[1]==="flying" ){
-//         console.log(pokemon[i])
-//     }
-// }
+for(i=1;i<=pokemon.length-1;i++){
+    if(pokemon[i].types[1]==="flying" ){
+        console.log(pokemon[i])
+    }
+}
 // BONUS Challenge: console.log the reverse of the names of the pokémon whose only type is "poison"
 for(i=1;i<=pokemon.length-1;i++){
     if(pokemon[i].types[0]==="poison" && pokemon[i].types.length==1 ){
         var strArray = pokemon[i].name.split('');
         var reversedArray = strArray.reverse();
         var reversedStr = reversedArray.join('');
+        reversedStr=reversedStr.toLowerCase()
         console.log(reversedStr);
     }
 }
