@@ -20,7 +20,7 @@ def user():
     return render_template('new_user.html')
 
 
-@app.post("/new_user")
+@app.route("/new_user",methods=['POST'])
 def save():
     data={
         'first_name':request.form['first_name'],
@@ -35,7 +35,8 @@ def edit(id):
     data={
         'id':id
     }
-    return render_template('edit_user.html',user=User.get_one(data))
+    user=User.get_one(data)
+    return render_template('edit_user.html',user=user)
 
 @app.route("/user/update", methods=['POST'])
 def updated():
@@ -47,7 +48,8 @@ def show(id):
     data ={ 
         "id":id
     }
-    return render_template("one_user.html",user=User.get_one(data))
+    user=User.get_one(data)
+    return render_template("one_user.html",user=user)
 
 @app.route("/user/delete/<int:id>")
 def ignore(id):
