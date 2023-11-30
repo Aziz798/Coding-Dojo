@@ -1,0 +1,21 @@
+.books_authors{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    height: auto;
+    width: 200px;
+    border: 2px solid black;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+#new{
+    left: 480px !important;
+    position: relative !important;
+    margin-top: 40px;
+}
