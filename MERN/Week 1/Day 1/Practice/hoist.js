@@ -119,3 +119,4 @@ function makeDojo(name, students) {
     return dojo;
 }
 //{ name: 'Chicago', students: 65, hiring: true }
+//error
