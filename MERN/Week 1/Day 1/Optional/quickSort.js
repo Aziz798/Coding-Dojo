@@ -36,4 +36,4 @@ quicksort(arr, 0, arr.length - 1);
 quicksort(arr2, 0, arr2.length - 2);
 console.log("Sorted array:", arr);
 console.log();
-console.log(arr2);
+console.log("Soreted array2:",arr2);
