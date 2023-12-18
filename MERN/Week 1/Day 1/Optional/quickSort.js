@@ -1,7 +1,7 @@
 const arr = [4, 2, 7, 1, 3];
 const arr2=[2,4,5,8,100,45];
 
-function partition(arr, low, high) {
+const partition=(arr, low, high)=> {
     const pivot = arr[low];
     let i = low - 1;
     let j = high + 1;
@@ -22,7 +22,7 @@ function partition(arr, low, high) {
     }
 }
 
-function quicksort(arr, low, high) {
+const quicksort=(arr, low, high) =>{
     if (low < high) {
         const pivotPosition = partition(arr, low, high);
         quicksort(arr, low, pivotPosition);
