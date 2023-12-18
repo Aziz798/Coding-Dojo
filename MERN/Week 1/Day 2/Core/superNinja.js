@@ -9,7 +9,7 @@ class Ninja{
         console.log(`Ninja name : ${this.name}`);
     }
     showStats(){
-        console.log(`${this.name}'s strength: ${this.stregth} , speed: ${this.speed} , and health: ${this.health}`);
+        console.log(`${this.name}'s strength: ${this.stregth} , speed: ${this.speed} and health: ${this.health}`);
     }
     drinShake(){
         this.health+=10;
@@ -27,6 +27,9 @@ class Sensei extends Ninja{
         console.log("What one programmer can do in one month, two programmers can do in two months.");
     }
 }
+// example output
 const superSensei = new Sensei("Master Splinter");
 superSensei.speakWisdom();
+// -> "What one programmer can do in one month, two programmers can do in two months."
 superSensei.showStats();
+// -> "Name: Master Splinter, Health: 210, Speed: 10, Strength: 10"

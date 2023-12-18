@@ -9,7 +9,7 @@ class Ninja{
         console.log(`Ninja name : ${this.name}`);
     }
     showStats(){
-        console.log(`${this.ninja}'s strength: ${this.stregth} , speed: ${this.speed} , and health: ${this.health}`);
+        console.log(`${this.name}'s strength: ${this.stregth} , speed: ${this.speed}  and health: ${this.health}`);
     }
     drinShake(){
         this.health+=10;
