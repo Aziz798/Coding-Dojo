@@ -13,6 +13,7 @@ class Ninja{
     }
     drinShake(){
         this.health+=10;
+        return this;
     }
 }
 const ninja1 = new Ninja("Hyabusa");
