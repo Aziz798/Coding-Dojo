@@ -12,6 +12,7 @@ const HookForm = () => {
 
 
     }
+
     const errorHandle = (pass, conf) => {
         if (pass !== conf && pass!==""&& conf!=="") {
             return "Wrong password"
@@ -46,6 +47,11 @@ const HookForm = () => {
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                 />
+                {
+                    email.includes('@')?
+                    " ":
+                    "Invalid Email needs to include @"
+                }
                 <label >Password</label>
                 <input type="text"
                     value={password}
