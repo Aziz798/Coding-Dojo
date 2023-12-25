@@ -16,7 +16,7 @@ function App() {
       <button onClick={fetchSuperHeroes}>Fetch Pokémon</button>
 
       <ul>
-        {pokemon.map(pok => <li key={pok.name}>{pok.name}</li>)}
+        {pokemon.map((pok,idx) => <li key={idx}>{pok.name}</li>)}
       </ul>
     </div>
   );
