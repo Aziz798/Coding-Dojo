@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "HelloDotnet/1.0.0": {
+      "Fundamentals_I/1.0.0": {
         "runtime": {
-          "HelloDotnet.dll": {}
+          "Fundamentals_I.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "HelloDotnet/1.0.0": {
+    "Fundamentals_I/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

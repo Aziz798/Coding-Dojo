@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\bin\Debug\net8.0\firstCSharp.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\bin\Debug\net8.0\firstCSharp.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\bin\Debug\net8.0\firstCSharp.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\bin\Debug\net8.0\firstCSharp.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\bin\Debug\net8.0\firstCSharp.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\refint\firstCSharp.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\firstCSharp.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\firstCSharp\obj\Debug\net8.0\ref\firstCSharp.dll
