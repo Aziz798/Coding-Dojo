@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\bin\Debug\net8.0\HelloDotnet.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\bin\Debug\net8.0\HelloDotnet.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\bin\Debug\net8.0\HelloDotnet.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\bin\Debug\net8.0\HelloDotnet.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\bin\Debug\net8.0\HelloDotnet.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\refint\HelloDotnet.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\HelloDotnet.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Practice\HelloDotnet\obj\Debug\net8.0\ref\HelloDotnet.dll
