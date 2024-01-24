@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\bin\Debug\net8.0\Fundemantels_II.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\bin\Debug\net8.0\Fundemantels_II.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\bin\Debug\net8.0\Fundemantels_II.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\bin\Debug\net8.0\Fundemantels_II.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\bin\Debug\net8.0\Fundemantels_II.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\refint\Fundemantels_II.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\Fundemantels_II.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\core\Fundemantels_II\obj\Debug\net8.0\ref\Fundemantels_II.dll
