@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\bin\Debug\net8.0\Fundamentals_III.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\bin\Debug\net8.0\Fundamentals_III.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\bin\Debug\net8.0\Fundamentals_III.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\bin\Debug\net8.0\Fundamentals_III.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\bin\Debug\net8.0\Fundamentals_III.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\refint\Fundamentals_III.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\Fundamentals_III.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_1\Core\Fundamentals_III\obj\Debug\net8.0\ref\Fundamentals_III.dll
