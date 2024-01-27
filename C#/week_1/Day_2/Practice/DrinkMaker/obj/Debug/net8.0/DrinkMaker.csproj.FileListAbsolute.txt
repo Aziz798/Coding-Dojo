@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\bin\Debug\net8.0\DrinkMaker.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\bin\Debug\net8.0\DrinkMaker.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\bin\Debug\net8.0\DrinkMaker.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\bin\Debug\net8.0\DrinkMaker.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\bin\Debug\net8.0\DrinkMaker.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\refint\DrinkMaker.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\DrinkMaker.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Practice\DrinkMaker\obj\Debug\net8.0\ref\DrinkMaker.dll
