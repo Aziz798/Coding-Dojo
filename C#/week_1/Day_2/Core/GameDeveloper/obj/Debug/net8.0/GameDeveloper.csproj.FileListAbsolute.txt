@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\bin\Debug\net8.0\GameDeveloper.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\bin\Debug\net8.0\GameDeveloper.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\bin\Debug\net8.0\GameDeveloper.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\bin\Debug\net8.0\GameDeveloper.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\bin\Debug\net8.0\GameDeveloper.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\refint\GameDeveloper.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\GameDeveloper.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\obj\Debug\net8.0\ref\GameDeveloper.dll

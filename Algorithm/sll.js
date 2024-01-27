@@ -29,7 +29,98 @@ class Sll {
         };
         return this;
     };
+    removeFront() {
+        if (this.isEmpty()) {
+            return false
+        } else {
+            this.head = this.head.next;
+            return this;
+        }
+    };
+    print() {
+        if (this.isEmpty()) {
+            return false;
+        } else {
+            let runner = this.head;
+            while (runner) {
+                console.log(runner.data);
+                runner = runner.next;
+            };
+        };
+    };
+    contains(value) {
+        if (this.isEmpty()) {
+            return false;
+        } else {
+            let runner = this.head;
+            while (runner) {
+                if (runner.data === value) {
+                    return true;
+                };
+                runner = runner.next;
+            };
+        };
+        return false;
+    };
+    length() {
+        let count = 1;
+        if (this.isEmpty()) {
+            console.log("Sll is empty");
+            return false;
+        } else {
+            let runner = this.head;
+            while (runner.next) {
+                count++;
+            };
+            runner = runner.next;
+        };
+        return count;
+    };
+    addToBack(value) {
+        const newNode = new Node(value);
+        if (this.isEmpty()) {
+            this.head = newNode;
+        } else {
+            let runner = this.head;
+            while (runner.next) {
+                runner = runner.next;
+            }
+            runner.next = newNode;
+        }
+        return this;
+    };
+    delete(value) {
+        if (this.isEmpty()) {
+            return false;
+        }
+        if (this.head.data === value) {
+            this.head = this.head.next;
+            return true;
+        }
+        let runner = this.head;
+        while (runner.next && runner.next.data !== value) {
+            runner = runner.next;
+        }
+        if (runner.next && runner.next.data === value) {
+            runner.next = runner.next.next;
+            return true;
+        }
+        return false;
+    };
+    reverse(){
+        if(this.isEmpty()){
+            return false;
+        }
+        const newSll=new Sll();
+        let runner = this.head;
+        while (runner){
+            newSll.addToFrontWithNode(runner.data)
+            runner=runner.next;
+        }
+        return newSll;
+    };
 };
+
 
 class Node {
     constructor(data) {
