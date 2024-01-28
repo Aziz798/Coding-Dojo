@@ -13,5 +13,5 @@ AllBeverages.Add(redWine);
 foreach (Drink beverage in AllBeverages)
 {
     beverage.ShowDrink();
-    Console.WriteLine(); 
+    Console.WriteLine("------------"); 
 }

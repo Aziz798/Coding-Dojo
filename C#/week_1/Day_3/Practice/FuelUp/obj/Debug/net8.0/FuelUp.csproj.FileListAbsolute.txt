@@ -1,0 +1,14 @@
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\bin\Debug\net8.0\FuelUp.exe
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\bin\Debug\net8.0\FuelUp.deps.json
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\bin\Debug\net8.0\FuelUp.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\bin\Debug\net8.0\FuelUp.dll
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\bin\Debug\net8.0\FuelUp.pdb
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.dll
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\refint\FuelUp.dll
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.pdb
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\FuelUp.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\FuelUp\obj\Debug\net8.0\ref\FuelUp.dll
