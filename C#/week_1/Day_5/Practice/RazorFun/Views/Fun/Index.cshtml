@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Here are some delicious food</h1>
+    @{
+        List<string> foods =["Apple Pie", "Pizza", "Cinamon Rolls", "Lasagna", "Donuts", "Chocolate Cake"];
+    foreach (string food in foods)
+        {
+            if (Char.ToLower(food[0]) == 'c')
+            {
+                <li style="color:red;">@food</li>
+            }
+            else
+            {
+                <li>@food</li>
+            }
+        }
+    }
+</body>
+
+</html>
