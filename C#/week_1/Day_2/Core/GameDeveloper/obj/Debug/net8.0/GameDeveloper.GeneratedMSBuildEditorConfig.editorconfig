@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameDeveloper
-build_property.ProjectDir = c:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\
+build_property.ProjectDir = C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_1\Day_2\Core\GameDeveloper\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

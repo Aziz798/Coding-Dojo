@@ -37,17 +37,15 @@ Console.WriteLine("Welcome to the Game!");
         Console.Write("Enter your character's name: ");
         string playerName = Console.ReadLine();
 
-        Player player = new Player(playerName);
-
-        // Default to the Melee Fighter enemy for testing
+        Player player = new(playerName);
         Enemy enemy = new MeleeFighter("Melee Warrior");
 
-        int distance = 2;  // Starting distance
+        int distance = 2; 
         Console.WriteLine($"{player.Name} vs {enemy.Name}!");
 
         while (player.Health > 0 && enemy.Health > 0)
         {
-            // Player's turn
+            
             Attack playerAttack = player.ChooseAttack();
             if (playerAttack.DamageAmount >= 0 && distance > 3)
             {

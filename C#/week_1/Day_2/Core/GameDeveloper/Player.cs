@@ -7,14 +7,14 @@ public class Player :Enemy
     public Player(string name):base(name)
     {
         Name = name;
-        Health = 100;  // Default health
-        AttackList = new List<Attack>
-        {
-            new Attack("Sword Slash", 15),
-            new Attack("Shield Bash", 10),
-            new Attack("Power Kick", 20),
-            new Attack("Healing Potion", -30) 
-        };
+        Health = 100; 
+        AttackList =
+        [
+            new("Sword Slash", 15),
+            new ("Shield Bash", 10),
+            new ("Power Kick", 20),
+            new("Healing Potion", -30) 
+        ];
     }
 
     public Attack ChooseAttack()

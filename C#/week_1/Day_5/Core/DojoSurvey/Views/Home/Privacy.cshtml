@@ -1,0 +1,13 @@
+﻿@model DojoSurvey.Models.Survey
+
+<h1>Privacy</h1>
+
+
+@{
+    Survey surveyData = ViewBag.SurveyData ;
+
+    <p>Your Name: @surveyData.Name</p>
+    <p>Dojo Location: @surveyData.DojoLocation</p>
+    <p>Favorite Language: @surveyData.FavouriteLanguage</p>
+    <p>Comment: @surveyData.Comment</p>
+}

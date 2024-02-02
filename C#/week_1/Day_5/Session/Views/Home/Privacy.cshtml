@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<div class="text-center">
+    <a class="btn btn-danger" asp-action="Logout" asp-controller="Home">Logout</a>
+    <h2>Last submitted user</h2>
+    <div class="card shadow mb-3">
+        <div class="card-body">
+            <div class="card-text h4">Username: @Context.Session.GetString("username")</div>
+            <div class="card-text h4">Age: @Context.Session.GetInt32("age") </div>
+            <div class="card-text h4">Favourite sport: @Context.Session.GetString("favSport") </div>
+        </div>
+    </div>
+</div>
