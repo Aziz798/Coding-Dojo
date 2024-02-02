@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center d-flex gap justify-content-between">
+    <div class="shadow h2">@ViewBag.EndTime.ToString("dddd, dd MMMM yyyy")</div>
+    <div class="shadow h2">@DateTime.Now.ToString("dddd, dd MMMM yyyy")</div>
+</div>
+<div class="text-center">
+    <h2>
+        Time Remaining
+        @{
+             TimeSpan remainingTime = ViewBag.EndTime - DateTime.Now;
+            string formattedTime = $"{remainingTime.Days} days, {remainingTime.Hours} hours, {remainingTime.Minutes} minutes";
+            @formattedTime
+        }
+    </h2>
+</div>
