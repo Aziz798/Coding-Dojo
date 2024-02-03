@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\bin\Debug\net8.0\linqEruption.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\bin\Debug\net8.0\linqEruption.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\bin\Debug\net8.0\linqEruption.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\bin\Debug\net8.0\linqEruption.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\bin\Debug\net8.0\linqEruption.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\refint\linqEruption.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\linqEruption.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\week_2\Day_4\Core\linqEruption\obj\Debug\net8.0\ref\linqEruption.dll
