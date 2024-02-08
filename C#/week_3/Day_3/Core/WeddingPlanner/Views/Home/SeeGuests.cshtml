@@ -1,0 +1,7 @@
+@model List<Guest>
+
+
+@foreach (Guest item in Model)
+{
+    <p>@item.User.Username</p>
+}

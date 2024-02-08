@@ -1,0 +1,53 @@
+﻿@model List<Wedding>
+
+
+<div class="text-center">
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th>Wedding of</th>
+                <th>Date</th>
+                <th>Guest Count</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (Wedding wedding in Model)
+{
+    <tr>
+        <td><a asp-action="SeeGuests" asp-route-id="@wedding.WeddingId" >@wedding.WedderOne & @wedding.WedderTwo</a></td>
+        <td>@wedding.Date.ToString("MMMM dd")</td>
+        <td>@wedding.MyGuests.Count()</td>
+        <td>
+            @{
+                if (wedding.UserId == (int)Context.Session.GetInt32("userId"))
+                {
+                    <form method="post" asp-action="Delete" asp-controller="Home" asp-route-id="@wedding.WeddingId">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                }
+                else
+                {
+                    int userId = (int)Context.Session.GetInt32("userId");
+                    bool isGuest = wedding.MyGuests.Any(g => g.UserId == userId);
+                    if (isGuest)
+                    {
+                        <form method="post" asp-action="Unreserve" asp-controller="Home" asp-route-weddingId="@wedding.WeddingId">
+                            <button class="btn btn-warning">Unreserve</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form method="post" asp-action="Reservation" asp-controller="Home" asp-route-weddingId="@wedding.WeddingId">
+                            <button class="btn btn-success">Reserve</button>
+                        </form>
+                    }
+                }
+            }
+        </td>
+    </tr>
+}
+
+        </tbody>
+    </table>
+</div>
