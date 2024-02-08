@@ -1,0 +1,8 @@
+@model List<Product>
+<div class="text-center">
+        <h2>All Products</h2>
+        @foreach (Product item in Model)
+        {
+            <a href="">@item.Name</a>
+        }
+    </div>

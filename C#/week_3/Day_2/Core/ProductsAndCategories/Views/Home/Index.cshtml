@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center d-flex justify-content-around">
+    @await Html.PartialAsync("_CreateProduct")
+    <div class="text-center">
+        <h2>All Products</h2>
+        @foreach (Product item in ViewBag.products)
+        {
+            <a asp-action="OneProduct" asp-route-id="@item.ProductId">@item.Name</a>
+        }
+    </div>
+</div>

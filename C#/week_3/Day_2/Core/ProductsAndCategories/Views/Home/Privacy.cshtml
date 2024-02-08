@@ -1,0 +1,12 @@
+﻿@model Categories
+
+<div class="text-center d-flex justify-content-around">
+    @await Html.PartialAsync("_CreateCategorie")
+    <div class="text-center">
+        <h2>All Products</h2>
+        @foreach (Categories item in ViewBag.Categories)
+        {
+            <a asp-action="OneCategorie" asp-route-id="@item.CategoriesId">@item.Name</a>
+        }
+    </div>
+</div>
