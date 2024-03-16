@@ -1,5 +1,5 @@
 from flask_app import app
-from flask import Flask,render_template,redirect,request,session,flash
+from flask import Flask,render_template,redirect,request,session,flash,jsonify
 from flask_app.models.user import User
 @app.route('/')
 def direct():
