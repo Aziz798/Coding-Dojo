@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <title>Filmmaker</title>
+  </head>
+  <body>
+    <h1>{{filmmaker.name}}</h1>
+    <table class="table table-striped">
+      <tr>
+        <th>Title</th>
+        <th>Production Year</th>
+      </tr>
+      {% for one_movie in filmmaker_movies %}
+      <tr>
+        <td>{{one_movie.title}}</td>
+        <td>{{one_movie.year}}</td>
+      </tr>
+      {% endfor %}
+    </table>
+    <a href="/">Home</a>
+  </body>
+</html>

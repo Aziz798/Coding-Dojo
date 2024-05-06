@@ -1,0 +1,15 @@
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\bin\Debug\net8.0\Getters Setters.exe
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\bin\Debug\net8.0\Getters Setters.deps.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\bin\Debug\net8.0\Getters Setters.runtimeconfig.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\bin\Debug\net8.0\Getters Setters.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\bin\Debug\net8.0\Getters Setters.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.AssemblyInfoInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.AssemblyInfo.cs
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.csproj.CoreCompileInputs.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.sourcelink.json
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\refint\Getters Setters.dll
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.pdb
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\Getters Setters.genruntimeconfig.cache
+C:\Users\bouaz\OneDrive\Desktop\Coding-Dojo\C#\Getters Setters\obj\Debug\net8.0\ref\Getters Setters.dll

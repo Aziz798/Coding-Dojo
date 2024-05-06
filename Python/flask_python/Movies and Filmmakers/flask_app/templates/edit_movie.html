@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit Movie</title>
+  </head>
+  <body>
+    <form action="/movie/{{movie.id}}/edit/submit" method="post">
+      <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input
+          type="text"
+          class="form-control"
+          id="movie_title"
+          name="title"
+          value="{{movie.title}}"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="movie_year" class="form-label">Production Year:</label>
+        <input
+          type="text"
+          class="form-control"
+          id="movie_year"
+          name="year"
+          value="{{movie.year}}"
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </body>
+</html>

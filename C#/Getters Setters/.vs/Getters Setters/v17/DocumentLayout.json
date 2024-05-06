@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bouaz\\OneDrive\\Desktop\\Coding-Dojo\\C#\\Getters Setters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2503F3-2BA3-4078-9141-C6BA67A6CE9E}|Getters Setters.csproj|c:\\users\\bouaz\\onedrive\\desktop\\coding-dojo\\c#\\getters setters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2503F3-2BA3-4078-9141-C6BA67A6CE9E}|Getters Setters.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2503F3-2BA3-4078-9141-C6BA67A6CE9E}|Getters Setters.csproj|c:\\users\\bouaz\\onedrive\\desktop\\coding-dojo\\c#\\getters setters\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2503F3-2BA3-4078-9141-C6BA67A6CE9E}|Getters Setters.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bouaz\\OneDrive\\Desktop\\Coding-Dojo\\C#\\Getters Setters\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\bouaz\\OneDrive\\Desktop\\Coding-Dojo\\C#\\Getters Setters\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:30:25.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bouaz\\OneDrive\\Desktop\\Coding-Dojo\\C#\\Getters Setters\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bouaz\\OneDrive\\Desktop\\Coding-Dojo\\C#\\Getters Setters\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:29:53.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
